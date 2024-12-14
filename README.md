@@ -1,9 +1,8 @@
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7F3ACE&height=120&section=header"/>  
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SeuUsername&show_icons=true&count_private=true&hide_border=true&title_color=7F3ACE&icon_color=7F3ACE&text_color=ffff&bg_color=0d1117" alt="Davi github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsername&layout=compact&hide_border=true&title_color=7F3ACE&text_color=ffff&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DaviSilvaAguiar&show_icons=true&count_private=true&hide_border=true&title_color=7F3ACE&icon_color=7F3ACE&text_color=ffff&bg_color=0d1117" alt="Davi github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviSilvaAguiar&layout=compact&hide_border=true&title_color=7F3ACE&text_color=ffff&bg_color=0d1117" />
 </div>
 
 ## Technologies: ⬇️
@@ -30,13 +29,12 @@
   <h3>Contact-me:</h3>
   <a href="mailto:daviagui13@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-7F3ACE?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/davi-aguiar-b4b738280/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-7F3ACE?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/davi.agsilva" target="_blank"><img src="https://img.shields.io/badge/Instagram-7F3ACE?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.instagram.com/davi.agsilva/" target="_blank"><img src="https://img.shields.io/badge/Instagram-7F3ACE?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
 <div align="center">
   <h3>Visitors Count:</h3>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{DaviSilvaAguiar}/count.svg" /></p> 
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/DaviSilvaAguiar/count.svg" /></p> 
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7F3ACE&height=120&section=footer"/>
-
