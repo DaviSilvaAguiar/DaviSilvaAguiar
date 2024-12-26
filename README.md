@@ -25,4 +25,11 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </div><br/>
 
+div align="center">
+  <h3>Visitors Count:</h3>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{DaviSilvaAguiar}/count.svg" /></p> 
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7F3ACE&height=120&section=footer"/>
+
 Transforming ideas into innovative solutions through code. Let's build the future together...
