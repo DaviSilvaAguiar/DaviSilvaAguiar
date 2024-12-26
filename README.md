@@ -25,8 +25,7 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </div><br/>
 
-div align="center">
-  <h3>Visitors Count:</h3>  
+<h3>Visitors Count:</h3>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{DaviSilvaAguiar}/count.svg" /></p> 
 </div>
 
